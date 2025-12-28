@@ -20,3 +20,6 @@ Sales_Amount – Total sales value
 Profit – Profit earned per order
 
 Quantity – Number of units sold
+
+# dataset used
+ - <a href="https://github.com/karthigavarshini/dashboard-/blob/main/Sales_Dataset.xlsx">Dataset</a>
