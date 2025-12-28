@@ -4,14 +4,14 @@ The main objective of this project is to understand sales performance, profit di
 # Dataset Overview
 
 The dataset includes the following key attributes:
-Order_ID – Unique identifier for each order
-Order_Date – Date of the order
-Region – Sales region (North, South, East, West)
-Product – Product name
-Category – Product category (Electronics, Furniture, etc.)
-Sales_Amount – Total sales value
-Profit – Profit earned per order
-Quantity – Number of units sold
+1.Order_ID – Unique identifier for each order.
+2.Order_Date – Date of the order.
+3.Region – Sales region (North, South, East, West).
+4.Product – Product name.
+5.Category – Product category (Electronics, Furniture, etc.).
+6.Sales_Amount – Total sales value.
+7.Profit – Profit earned per order.
+8.Quantity – Number of units sold.
 
 # dataset used
  - <a href="https://github.com/karthigavarshini/dashboard-/blob/main/Sales_Dataset.xlsx">Dataset</a>
@@ -20,11 +20,11 @@ Quantity – Number of units sold
 
 # Key Analysis Performed
 
-Sales performance by region
-Profit analysis by product and category
-Quantity sold across different products
-Identification of top-selling and most profitable products
-Overall sales and profit summary
+1.Sales performance by region.
+2.Profit analysis by product and category.
+3.Quantity sold across different products.
+4.Identification of top-selling and most profitable products.
+5.Overall sales and profit summary.
 
 # 👩‍💻 Author
 
